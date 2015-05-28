@@ -13,6 +13,7 @@
 		7C6C38A61B176996009F8A6F /* TTTStringInflector.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6C38A21B176996009F8A6F /* TTTStringInflector.m */; };
 		7C6C38A81B1769DE009F8A6F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C6C38A71B1769DE009F8A6F /* Foundation.framework */; };
 		7C6C38AE1B176B47009F8A6F /* InflectorKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6C38AD1B176B47009F8A6F /* InflectorKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7C6C38EB1B177338009F8A6F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C6C38EA1B177338009F8A6F /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		7C6C38A21B176996009F8A6F /* TTTStringInflector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TTTStringInflector.m; path = InflectorKit/TTTStringInflector.m; sourceTree = SOURCE_ROOT; };
 		7C6C38A71B1769DE009F8A6F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		7C6C38AD1B176B47009F8A6F /* InflectorKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = InflectorKit.h; path = InflectorKit/InflectorKit.h; sourceTree = SOURCE_ROOT; };
+		7C6C38EA1B177338009F8A6F /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		7C6C38851B176964009F8A6F /* InflectorKit */ = {
 			isa = PBXGroup;
 			children = (
+				7C6C38EA1B177338009F8A6F /* Info.plist */,
 				7C6C38AD1B176B47009F8A6F /* InflectorKit.h */,
 				7C6C389F1B176996009F8A6F /* NSString+InflectorKit.h */,
 				7C6C38A01B176996009F8A6F /* NSString+InflectorKit.m */,
@@ -144,6 +147,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C6C38EB1B177338009F8A6F /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,7 +261,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "";
+				INFOPLIST_FILE = "$(SRCROOT)/InflectorKit/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +276,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "";
+				INFOPLIST_FILE = "$(SRCROOT)/InflectorKit/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
