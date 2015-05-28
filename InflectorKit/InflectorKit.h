@@ -18,4 +18,3 @@ FOUNDATION_EXPORT const unsigned char InflectorKitVersionString[];
 
 #import "NSString+InflectorKit.h"
 #import "TTTStringInflector.h"
-

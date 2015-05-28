@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7C6C38821B176964009F8A6F"
                BuildableName = "InflectorKit.framework"
-               BlueprintName = "InflectorKit"
+               BlueprintName = "InflectorKit-iOS"
                ReferencedContainer = "container:InflectorKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7C6C388D1B176964009F8A6F"
+               BlueprintIdentifier = "7C6C38FA1B178064009F8A6F"
                BuildableName = "InflectorKitTests.xctest"
                BlueprintName = "InflectorKitTests"
                ReferencedContainer = "container:InflectorKit.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7C6C388D1B176964009F8A6F"
+               BlueprintIdentifier = "7C6C38FA1B178064009F8A6F"
                BuildableName = "InflectorKitTests.xctest"
                BlueprintName = "InflectorKitTests"
                ReferencedContainer = "container:InflectorKit.xcodeproj">
@@ -58,7 +58,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7C6C38821B176964009F8A6F"
             BuildableName = "InflectorKit.framework"
-            BlueprintName = "InflectorKit"
+            BlueprintName = "InflectorKit-iOS"
             ReferencedContainer = "container:InflectorKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -77,7 +77,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7C6C38821B176964009F8A6F"
             BuildableName = "InflectorKit.framework"
-            BlueprintName = "InflectorKit"
+            BlueprintName = "InflectorKit-iOS"
             ReferencedContainer = "container:InflectorKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -95,7 +95,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7C6C38821B176964009F8A6F"
             BuildableName = "InflectorKit.framework"
-            BlueprintName = "InflectorKit"
+            BlueprintName = "InflectorKit-iOS"
             ReferencedContainer = "container:InflectorKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
