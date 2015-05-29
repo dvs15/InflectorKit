@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7C6C38F01B178064009F8A6F"
-               BuildableName = "InflectorKit-OSX.framework"
-               BlueprintName = "InflectorKit-OSX"
+               BuildableName = "InflectorKit.framework"
+               BlueprintName = "InflectorKit OSX"
                ReferencedContainer = "container:InflectorKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -43,8 +43,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7C6C38F01B178064009F8A6F"
-            BuildableName = "InflectorKit-OSX.framework"
-            BlueprintName = "InflectorKit-OSX"
+            BuildableName = "InflectorKit.framework"
+            BlueprintName = "InflectorKit OSX"
             ReferencedContainer = "container:InflectorKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -61,8 +61,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7C6C38F01B178064009F8A6F"
-            BuildableName = "InflectorKit-OSX.framework"
-            BlueprintName = "InflectorKit-OSX"
+            BuildableName = "InflectorKit.framework"
+            BlueprintName = "InflectorKit OSX"
             ReferencedContainer = "container:InflectorKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

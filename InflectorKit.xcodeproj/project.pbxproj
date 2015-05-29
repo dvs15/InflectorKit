@@ -104,9 +104,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		7C6C38821B176964009F8A6F /* InflectorKit-iOS */ = {
+		7C6C38821B176964009F8A6F /* InflectorKit iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7C6C38991B176964009F8A6F /* Build configuration list for PBXNativeTarget "InflectorKit-iOS" */;
+			buildConfigurationList = 7C6C38991B176964009F8A6F /* Build configuration list for PBXNativeTarget "InflectorKit iOS" */;
 			buildPhases = (
 				7C6C387E1B176964009F8A6F /* Sources */,
 				7C6C387F1B176964009F8A6F /* Frameworks */,
@@ -117,14 +117,14 @@
 			);
 			dependencies = (
 			);
-			name = "InflectorKit-iOS";
+			name = "InflectorKit iOS";
 			productName = InflectorKit;
 			productReference = 7C6C38831B176964009F8A6F /* InflectorKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		7C6C38F01B178064009F8A6F /* InflectorKit-OSX */ = {
+		7C6C38F01B178064009F8A6F /* InflectorKit OSX */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7C6C39041B178064009F8A6F /* Build configuration list for PBXNativeTarget "InflectorKit-OSX" */;
+			buildConfigurationList = 7C6C39041B178064009F8A6F /* Build configuration list for PBXNativeTarget "InflectorKit OSX" */;
 			buildPhases = (
 				7C6C38EC1B178064009F8A6F /* Sources */,
 				7C6C38ED1B178064009F8A6F /* Frameworks */,
@@ -135,7 +135,7 @@
 			);
 			dependencies = (
 			);
-			name = "InflectorKit-OSX";
+			name = "InflectorKit OSX";
 			productName = InflectorKit;
 			productReference = 7C6C38F11B178064009F8A6F /* InflectorKit.framework */;
 			productType = "com.apple.product-type.framework";
@@ -169,8 +169,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7C6C38821B176964009F8A6F /* InflectorKit-iOS */,
-				7C6C38F01B178064009F8A6F /* InflectorKit-OSX */,
+				7C6C38821B176964009F8A6F /* InflectorKit iOS */,
+				7C6C38F01B178064009F8A6F /* InflectorKit OSX */,
 			);
 		};
 /* End PBXProject section */
@@ -387,7 +387,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7C6C38991B176964009F8A6F /* Build configuration list for PBXNativeTarget "InflectorKit-iOS" */ = {
+		7C6C38991B176964009F8A6F /* Build configuration list for PBXNativeTarget "InflectorKit iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7C6C389A1B176964009F8A6F /* Debug */,
@@ -396,13 +396,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7C6C39041B178064009F8A6F /* Build configuration list for PBXNativeTarget "InflectorKit-OSX" */ = {
+		7C6C39041B178064009F8A6F /* Build configuration list for PBXNativeTarget "InflectorKit OSX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7C6C39051B178064009F8A6F /* Debug */,
 				7C6C39061B178064009F8A6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
